@@ -1,4 +1,9 @@
 
-In the ./requirements.txt one should specify the dependencies between templates.
 
-in the ./metadata.json one should specify only the external libraries in the `"dependencies": []` properties.
+
+The template was build using the following versions of Python packages:
+- matplotlib: 3.8.2
+- pandas: 2.1.3
+- numpy: 1.26.2
+- scikit-learn: 1.3.2
+- factor_analyzer: 0.5.0

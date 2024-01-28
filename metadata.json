@@ -1,15 +1,15 @@
 {
-    "display_name": "",
-    "command": "",
-    "dependencies": [],
+    "display_name": "Factor Analysis",
+    "command": "generate",
+    "dependencies": ["matplotlib","pandas", "numpy", "factor_analyzer", "scikit-learn"],
 
-    "keywords": [],
-    "methodology": [],
+    "keywords": ["Factor Analysis", "EFA", "Exploratory Factor Analysis"],
+    "methodology": ["Clustering"],
     "topic": [],
 
-    "description": "",
-    "author": "",
-    "author_email": "",
+    "description": "Factor Analysis (currently only Exploratory Factor Analysis)",
+    "author": "Daniel Wang",
+    "author_email": "daniel.wang@oliverwyman.com",
 	
-	"read_more_link": ""
+    "read_more_link": "https://github.com/ow-gryphon/gryphon-factor-analysis"
 }
