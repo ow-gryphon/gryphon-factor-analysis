@@ -4,7 +4,7 @@
     "dependencies": ["matplotlib","pandas", "numpy", "factor_analyzer", "scikit-learn"],
 
     "keywords": ["Factor Analysis", "EFA", "Exploratory Factor Analysis"],
-    "methodology": ["Clustering"],
+    "methodology": ["Clustering", "Clustering and Factor Analysis"],
     "topic": [],
 
     "description": "Factor Analysis (currently only Exploratory Factor Analysis)",
